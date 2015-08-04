@@ -1,0 +1,5 @@
+C:\Temp\Random\Random\Random\bin\Debug\Random.XML
+C:\Temp\Random\Random\Random\bin\Debug\Random.dll
+C:\Temp\Random\Random\Random\bin\Debug\Random.pdb
+C:\Temp\Random\Random\Random\obj\Debug\Random.dll
+C:\Temp\Random\Random\Random\obj\Debug\Random.pdb

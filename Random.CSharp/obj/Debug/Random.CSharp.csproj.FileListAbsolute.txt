@@ -1,0 +1,5 @@
+C:\Temp\Random\Random\Random.CSharp\bin\Debug\Random.CSharp.dll
+C:\Temp\Random\Random\Random.CSharp\bin\Debug\Random.CSharp.pdb
+C:\Temp\Random\Random\Random.CSharp\obj\Debug\Random.CSharp.csprojResolveAssemblyReference.cache
+C:\Temp\Random\Random\Random.CSharp\obj\Debug\Random.CSharp.dll
+C:\Temp\Random\Random\Random.CSharp\obj\Debug\Random.CSharp.pdb
